@@ -1,0 +1,12 @@
+[project]
+name = "slm-scratch"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "datasets>=4.0.0",
+    "matplotlib>=3.10.5",
+    "tiktoken>=0.11.0",
+    "torch>=2.8.0",
+]
